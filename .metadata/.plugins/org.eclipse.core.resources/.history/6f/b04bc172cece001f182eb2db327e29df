@@ -1,0 +1,19 @@
+package com.centerprise.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.centerprise.bean.Customer;
+import com.centerprise.repo.CustomerRepo;
+
+@Service
+public class CustomerService {
+
+	   @Autowired
+	  private CustomerRepo customerRepo;
+	   
+	   public Customer addCustomer(Customer customer)
+		{
+			return customerRepo.save(customer);
+		}
+}

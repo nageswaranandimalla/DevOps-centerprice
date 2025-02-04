@@ -1,0 +1,5 @@
+package com.centerprise.entity;
+
+public class Employee {
+
+}

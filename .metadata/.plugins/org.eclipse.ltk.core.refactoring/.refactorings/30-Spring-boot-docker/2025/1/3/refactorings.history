@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;30-Spring-boot-docker/Dockerffile&apos; to &apos;Dockerfile&apos;" description="Rename resource &apos;Dockerffile&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Dockerffile" name="Dockerfile" stamp="1737042681709" updateReferences="true"/>
+</session>

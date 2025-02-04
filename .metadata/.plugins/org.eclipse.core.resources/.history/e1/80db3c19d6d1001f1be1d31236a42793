@@ -1,0 +1,5 @@
+package com.centerprise.config;
+
+public class AppSecurityConfig {
+
+}

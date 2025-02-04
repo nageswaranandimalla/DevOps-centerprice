@@ -1,0 +1,5 @@
+package com.centerprise.repository;
+
+public interface EmployeeRepository {
+
+}
